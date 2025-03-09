@@ -1,4 +1,4 @@
-# crud_with_sqlite3
+# Overview: crud_with_sqlite3
 The goal of this repository is show how to make CRUD functions with the SQLite3 Python Library. 
 
 # DATABASE DESCRIPTION
@@ -36,3 +36,7 @@ APP: DB Browser SQLite
 * [SQLite Tutorial](https://www.sqlitetutorial.net/sqlite-date/)
 
 * [Greek for Geeks](https://matplotlib.org/stable/gallery/lines_bars_and_markers/categorical_variables.html)
+# Future Work
+- Improve the DB design including courses, teacher and the scores.
+- Show the DB changes in the terminal
+- clear the terminal to show a clean menu after use a command
