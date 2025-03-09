@@ -5,7 +5,7 @@ The goal of this repository is show how to make CRUD functions with the SQLite3 
 ## DATABASE NAME: students_record.db
 
 ### TABLE students
-![Student Table.](./images/student_table.jpg)
+![Student Table.](./images/students_table.jpg)
 
 #### Description
 This table represents the active students participating in a study program, wheter a course of High School or College kind or Level is not especified.
