@@ -13,6 +13,7 @@ The field store basic personal information, we didn't extended in complexity sin
 whole Database structure for an academical center.
 
 ### TABLE dismiss
+![Student Table.](./images/dismissed_table.jpg)
 #### Description
 This table represents the students who are no longer participating in a study program and left before finishing. Basically it's function is the same as the
 recycle folder. Keep the record of the student in case it would be required to search that information later.
